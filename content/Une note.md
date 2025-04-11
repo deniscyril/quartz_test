@@ -1,8 +1,9 @@
 ---
-title: Example 
+title: Example
 draft: false
-tags: 
-    - example-tag
+tags:
+  - example-tag
+published: published
 ---
 
 # TEST
