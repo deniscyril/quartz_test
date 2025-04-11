@@ -11,3 +11,4 @@ published: published
 
 $E=mv^2$
 
+![[circuit_RC.png]]
