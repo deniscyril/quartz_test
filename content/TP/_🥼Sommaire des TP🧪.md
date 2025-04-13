@@ -2,7 +2,7 @@
 created: 2023-07-22T17:42
 updated: 2023-10-14T14:05
 ---
-maj 13 avil 17h57
+maj 13 avil 18h10
 # TP de Terminale spécialité
 ## TP de Physique
 
@@ -29,6 +29,8 @@ WHERE Classe = "Terminale" AND Phys_ou_Chim = "Physique"
 | [[content/TP/Ultrasons Terminale.md\|Ultrasons Terminale]]         | 1:52 PM - October 14, 2023   | Physique     | Terminale |
 
 %% DATAVIEW_PUBLISHER: end %%
+
+-- -- 
 ```dataview
 TABLE updated, Phys_ou_Chim, Classe
 FROM "content/TP" 

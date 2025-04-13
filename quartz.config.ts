@@ -53,6 +53,9 @@ const config: QuartzConfig = {
       },
     },
   },
+  transformSlug: (slug) => {
+    return slug.replace(/^content\//, "")
+  },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
